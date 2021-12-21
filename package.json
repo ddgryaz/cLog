@@ -4,6 +4,12 @@
   "description": "Minimalistic NodeJS library for more informative output in the console.log",
   "main": "app.js",
   "author": "Dmitriy Dzyuman <telegram: @dimadzuman>",
+  "keywords": [
+      "clogsjs",
+      "color",
+      "JavaScript",
+      "NodeJs"
+    ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ddgryaz/cLogs.js.git"
