@@ -58,4 +58,4 @@ cLogs.js is freely distributable under the terms of the [MIT license][license-ur
 [license-url]: LICENSE
 
 [npm-url]: https://www.npmjs.com/package/clogsjs
-[npm-version-image]: https://img.shields.io/npm/v/clogsjs?color=important&style=plastic
+[npm-version-image]: https://img.shields.io/npm/v/clogsjs?color=important
