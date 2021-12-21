@@ -5,7 +5,7 @@
 
 ![logo](helpers/logo1.png)
 
-Library for more informative output in the console.log.
+Minimalistic NodeJS library for more informative output in the console.log.
 
 cLog provides three colors for more informative display of logs.
 You can use:
@@ -14,11 +14,11 @@ Red - for the most important messages.
 
 Green - to notify about completion of work or about a successfully received request.
 
-Yellow for warnings or implicit instructions.
+Yellow - for warnings or implicit instructions.
 
 You can also use cLog without passing an argument. In this case, the output will be the default color of your shell.
 
-cLog also displays the current date and time using the dependency - moment.js
+cLog also displays the current date and time using the dependency - [moment.js](https://github.com/moment/moment)
 
 
 ## Installation
