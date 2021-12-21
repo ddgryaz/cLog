@@ -3,7 +3,7 @@
 ![js-image]
 [![MIT License][license-image]][license-url]
 
-![logo](helpers/logos.png)
+![logo](https://i2.piccy.info/i9/31d2ab74cfdc0ad229dfd34c892e32e7/1640083394/19005/1452477/7817logos.png)
 
 Minimalistic NodeJS library for more informative output in the console.log.
 
@@ -43,7 +43,7 @@ cLogs('This is just a regular log');
 
 Output:
 
-![output.png](helpers/output.png)
+![output.png](https://i2.piccy.info/i9/79be2562132071e2ee8657922d4f0c72/1640083448/11125/1452477/output.png)
 
 ## License
 
