@@ -31,14 +31,7 @@ cLog('This is just a regular log');
 
 Output:
 
-<span style="color:red">2021-12-21 11:50 - Error! User unavailable</span>
-
-<span style="color:green">2021-12-21 11:50 - Success! User sync complete</span>
-
-<span style="color:yellow">2021-12-21 11:50 - Warning! User structure not found</span>
-
-2021-12-21 11:50 - This is just a regular log
-
+![output.png](helpers/output.png)
 
 ## License
 
