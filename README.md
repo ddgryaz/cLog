@@ -1,5 +1,6 @@
 # cLogs.js
 ![author-image]
+[![NPM version][npm-version-image]][npm-url]
 ![js-image]
 [![MIT License][license-image]][license-url]
 
@@ -52,5 +53,9 @@ cLogs.js is freely distributable under the terms of the [MIT license][license-ur
 
 [author-image]: https://img.shields.io/badge/Author-Dmitriy%20Dzyuman-blueviolet
 [js-image]: https://img.shields.io/badge/Lang-JavaScript-yellow
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
+
+[license-image]: https://img.shields.io/badge/License-MIT-blue
 [license-url]: LICENSE
+
+[npm-url]: https://www.npmjs.com/package/clogsjs
+[npm-version-image]: https://img.shields.io/npm/v/clogsjs?color=important&style=plastic

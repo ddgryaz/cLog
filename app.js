@@ -17,7 +17,7 @@ function logWithColor (message, color) {
 
 function cLogs(message, color) {
 
-    const colorToLowers = color ? color.toLowerCase() : null
+    const colorToLowers = color && typeof color === 'string' ? color.toLowerCase() : null
 
     switch (colorToLowers) {
         /* To display any important messages and errors */
