@@ -5,10 +5,11 @@
   "main": "app.js",
   "author": "Dmitriy Dzyuman <telegram: @dimadzuman>",
   "keywords": [
-      "clogsjs",
+      "console",
       "color",
-      "JavaScript",
-      "NodeJs"
+      "log",
+      "info",
+      "error"
     ],
   "repository": {
     "type": "git",
