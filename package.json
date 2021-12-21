@@ -1,6 +1,6 @@
 {
   "name": "clogsjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Minimalistic NodeJS library for more informative output in the console.log",
   "main": "app.js",
   "author": "Dmitriy Dzyuman <telegram: @dimadzuman>",
