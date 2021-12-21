@@ -3,6 +3,8 @@
 ![js-image]
 [![MIT License][license-image]][license-url]
 
+![logo](helpers/logo1.png)
+
 Library for more informative output in the console.log.
 
 cLog provides three colors for more informative display of logs.
