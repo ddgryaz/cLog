@@ -1,48 +1,44 @@
-# cLog.js
+# cLogs.js
 ![author-image]
 ![js-image]
 [![MIT License][license-image]][license-url]
 
-![logo](helpers/logo1.png)
+![logo](helpers/logos.png)
 
 Minimalistic NodeJS library for more informative output in the console.log.
 
-cLog provides three colors for more informative display of logs.
+cLogs provides three colors for more informative display of logs.
 You can use:
 
-Red - for the most important messages.
+* Red - for the most important messages.
 
-Green - to notify about completion of work or about a successfully received request.
+* Green - to notify about completion of work or about a successfully received request.
 
-Yellow - for warnings or implicit instructions.
+* Yellow - for warnings or implicit instructions.
 
-You can also use cLog without passing an argument. In this case, the output will be the default color of your shell.
+You can also use cLogs without passing an argument. In this case, the output will be the default color of your shell.
 
-cLog also displays the current date and time using the dependency - [moment.js](https://github.com/moment/moment)
+cLogs also displays the current date and time using the dependency - [moment.js](https://github.com/moment/moment)
 
 
 ## Installation
 
-Add the next line in package.json dependencies:
-```javascript
-"dependencies": {
-    ...
-    "cLog": "git+https://github.com/ddgryaz/cLog.js.git"
-    ...
-}
+Use npm:
+```shell
+npm install clogsjs
 ```
 
 ## Tutorial
 
-Import cLog into your application:
+Import cLogs into your application:
 
 ```javascript
-const cLog = require('cLog');
+const cLogs = require('clogsjs');
 
-cLog('Error! User unavailable', 'red');
-cLog('Success! User sync complete', 'green');
-cLog('Warning! User structure not found', 'yellow');
-cLog('This is just a regular log');
+cLogs('Error! User unavailable', 'red');
+cLogs('Success! User sync complete', 'green');
+cLogs('Warning! User structure not found', 'yellow');
+cLogs('This is just a regular log');
 ```
 
 Output:
@@ -51,7 +47,7 @@ Output:
 
 ## License
 
-cLog.js is freely distributable under the terms of the [MIT license][license-url].
+cLogs.js is freely distributable under the terms of the [MIT license][license-url].
 
 
 [author-image]: https://img.shields.io/badge/Author-Dmitriy%20Dzyuman-blueviolet

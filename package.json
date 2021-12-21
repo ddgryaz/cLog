@@ -1,14 +1,16 @@
 {
-  "name": "clog.js",
+  "name": "clogsjs",
   "version": "1.0.0",
-  "description": "Library for more informative output in the console.log",
+  "description": "Minimalistic NodeJS library for more informative output in the console.log",
   "main": "app.js",
   "author": "Dmitriy Dzyuman <telegram: @dimadzuman>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ddgryaz/cLog.js.git"
+    "url": "https://github.com/ddgryaz/cLogs.js.git"
   },
-  "private": true,
+  "bugs": {
+      "url": "https://github.com/ddgryaz/cLogs.js/issues"
+    },
   "license": "MIT",
   "dependencies": {
     "moment": "^2.29.1"

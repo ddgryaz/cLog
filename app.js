@@ -15,7 +15,7 @@ function logWithColor (message, color) {
 }
 
 
-function cLog(message, color) {
+function cLogs(message, color) {
 
     const colorToLowers = color ? color.toLowerCase() : null
 
@@ -39,4 +39,4 @@ function cLog(message, color) {
     }
 }
 
-module.exports = cLog
+module.exports = cLogs
