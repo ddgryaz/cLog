@@ -1,13 +1,15 @@
 {
-  "name": "clog",
+  "name": "clog.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Library for more informative output in the console.log",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Dmitriy Dzyuman <telegram: @dimadzuman>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddgryaz/cLog.js.git"
   },
-  "author": "",
-  "license": "ISC",
+  "private": true,
+  "license": "MIT",
   "dependencies": {
     "moment": "^2.29.1"
   }
